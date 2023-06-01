@@ -5,11 +5,12 @@ p {
 
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: large;
+    font-size: larger;
     text-align: center;
     color: whitesmoke;
+    padding-top: 100px;
 }
 
 body{
-    background-color: darkslategrey;
+    background-color: rgb(26, 30, 35);
 }
