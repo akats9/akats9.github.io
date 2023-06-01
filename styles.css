@@ -8,9 +8,14 @@ h1{
     font-size: larger;
     text-align: center;
     color: whitesmoke;
-    padding-top: 100px;
+    padding-top: 1000px;
 }
 
 body{
     background-color: rgb(26, 30, 35);
+}
+
+button{
+    background-color: darkcyan;
+    color: whitesmoke;
 }
