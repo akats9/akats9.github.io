@@ -1,3 +1,15 @@
 p {
-    font-family: cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+
+.mainh{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: center;
+    color: whitesmoke;
+}
+
+body{
+    background-color: darkslategrey;
 }
