@@ -13,7 +13,7 @@ h1{
 }
 
 body{
-    background-color: rgb(26, 30, 35);
+    background-image: linear-gradient(to bottom right, rgb(255, 161, 39), rgb(255, 0, 102));
 }
 
 button{
@@ -105,4 +105,44 @@ input:checked + .slider:before {
 
 .slider.round:before {
   border-radius: 50%;
+}
+
+.image1{
+    width: 533px;
+    height: 300px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text1{
+    font-size: 20px;
+    padding-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 20px;
+    text-align: right;
+}
+
+.image2{
+    width: 533px;
+    height: 300px;
+    text-align: right;
+    padding-right: 10px
+}
+
+.text2{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+hr{
+    color:#00CDAC;
 }
